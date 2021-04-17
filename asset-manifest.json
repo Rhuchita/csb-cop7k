@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rhuchita.github.io/csb-cop7k/static/css/main.086ad867.chunk.css",
+    "main.js": "https://rhuchita.github.io/csb-cop7k/static/js/main.5a714ee3.chunk.js",
+    "main.js.map": "https://rhuchita.github.io/csb-cop7k/static/js/main.5a714ee3.chunk.js.map",
+    "runtime-main.js": "https://rhuchita.github.io/csb-cop7k/static/js/runtime-main.c4a9e4c8.js",
+    "runtime-main.js.map": "https://rhuchita.github.io/csb-cop7k/static/js/runtime-main.c4a9e4c8.js.map",
+    "static/js/2.a44bf918.chunk.js": "https://rhuchita.github.io/csb-cop7k/static/js/2.a44bf918.chunk.js",
+    "static/js/2.a44bf918.chunk.js.map": "https://rhuchita.github.io/csb-cop7k/static/js/2.a44bf918.chunk.js.map",
+    "index.html": "https://rhuchita.github.io/csb-cop7k/index.html",
+    "static/css/main.086ad867.chunk.css.map": "https://rhuchita.github.io/csb-cop7k/static/css/main.086ad867.chunk.css.map",
+    "static/js/2.a44bf918.chunk.js.LICENSE.txt": "https://rhuchita.github.io/csb-cop7k/static/js/2.a44bf918.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4a9e4c8.js",
+    "static/js/2.a44bf918.chunk.js",
+    "static/css/main.086ad867.chunk.css",
+    "static/js/main.5a714ee3.chunk.js"
+  ]
+}
